@@ -2,6 +2,7 @@
 
 ## Overview
 This document explains the specifications for User Management screen. It gives details about UI parts, how it works, and what developers need to do when making this screen.
+<img width="821" alt="Screenshot 2024-09-13 at 12 38 06" src="https://github.com/user-attachments/assets/c124926a-46cf-4d45-b752-6810a3a0f571">
 
 ## UI Parts
 
